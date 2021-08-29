@@ -1,1 +1,1 @@
-# cat-dog-detector-pytorch
+# Cat-Dog-detector-pytorch
